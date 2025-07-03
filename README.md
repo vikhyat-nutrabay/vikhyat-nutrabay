@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, FastAPI, Elastic Search**
 
-- 📫 How to reach me **vkhtgupta@gmail.com**
+- 📫 <a href="mailto:example@example.com">Reach out on Mail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
